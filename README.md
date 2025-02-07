@@ -1,12 +1,21 @@
 # C5-Unidad-1
 
-## Apatado personal
-Brayan Leonel Hernández Diaz
+##Ejercicios en equipo
+
+## Apatado de evidencia personal
+BRAYAN LEONEL HERNÁNDEZ DIAZ
 
 
-Jennifer Ailin Medina Hernández
+JENNIFER AILIN MEDINA HERNÁNDEZ
+--Curso Python 2--
 
-Cecilia Aurora Robelo Hernández
+--Cuestionario final--
 
-##
+--Soldadura--
+
+-Figura-
+-Placa fenólica-
+
+
+CECILIA AURORA ROBELO HERNÁNDEZ
 
